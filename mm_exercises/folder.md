@@ -1,0 +1,1 @@
+files magic method exercises
